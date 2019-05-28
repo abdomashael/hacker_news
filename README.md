@@ -1,11 +1,14 @@
 # Hacker News
 
 Implemenation of hacker news api ( Top stories ).
+
 For learning purpose , based on online course (Dart and Flutter: The Complete Developer's Guide) at udemy.
 _____________________________
 Links
 Api: https://github.com/HackerNews/API
+
 Website: https://news.ycombinator.com/
+
 Course: https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/
 
 
